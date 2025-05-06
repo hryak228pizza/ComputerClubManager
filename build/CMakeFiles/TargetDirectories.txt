@@ -1,0 +1,3 @@
+C:/Users/gjfdh/source/repos/ComputerClubManager/build/CMakeFiles/task.dir
+C:/Users/gjfdh/source/repos/ComputerClubManager/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/gjfdh/source/repos/ComputerClubManager/build/CMakeFiles/ZERO_CHECK.dir
